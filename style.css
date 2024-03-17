@@ -1,0 +1,36 @@
+body {
+    font-family: sans-serif;
+}
+h1 {
+    color: blue;
+    text-decoration-line: overline underline;
+    text-decoration-style: double;
+}
+h3 {
+    border: 1px solid black; 
+    padding: 10px; 
+}
+.it_about{
+    color: saddlebrown;
+}
+h4 {
+    color: blue;
+    text-decoration-line:  underline;
+    text-align: center;
+}
+.items{
+    width: 80%;
+    margin: auto;
+}
+.it_image{
+    display: inline-block;
+    width: 45%;
+}
+
+.it_about{
+    display: inline-block;
+    width: 45%;
+}
+h2{
+    text-align: center;
+}
